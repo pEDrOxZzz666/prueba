@@ -10,8 +10,6 @@ public class BookaroProjectApplication {
 		SpringApplication.run(BookaroProjectApplication.class, args);
 	}
 	
-	/**
-	 * Prueba
-	 */
+	
 
 }
